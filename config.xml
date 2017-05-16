@@ -6,10 +6,10 @@
         id        = "com.phonegap.api-request"
         version   = "1.0.0">
 
-    <name>SPM PORTALL</name>
+    <name>SPM TEST</name>
 
     <description>
-        Student Portal
+       test TEst
     </description>
 
 
