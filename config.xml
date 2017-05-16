@@ -12,7 +12,7 @@
        test Test
     </description>
 
-
+<allow-navigation href="http://192.168.1.35/app/*" />
     <!-- Define app icon for each platform. -->
     <icon src="spm.png" />
 </widget>
