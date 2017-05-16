@@ -5,8 +5,10 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.phonegap.api-request"
         version   = "1.0.0">
-
-    <name>SPM TEST 6</name>
+<allow-navigation href="*" />
+<allow-intent href="*" />
+<access origin="*" />
+    <name>SPM TEST 7</name>
 
     <description>
        test Test
