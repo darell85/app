@@ -8,7 +8,7 @@
     <!-- This is a wide open CSP declaration. To lock this down for production, see below. -->
     <meta http-equiv="Content-Security-Policy" content="default-src * 'unsafe-inline'; style-src 'self' 'unsafe-inline'; media-src *" />
 
- <meta http-equiv="refresh"  content="0; url=http://192.168.1.35/app/login.php">
+ 
  <title>Page Title</title>
 <style>
 html,body{height:100%;}
@@ -32,10 +32,11 @@ html,body{height:100%;}
 
 <!--
   <iframe src="http://192.168.1.35/app/" allowfullscreen class="container fill"></iframe>
+<meta http-equiv="refresh"  content="0; url=http://192.168.1.35/app/login.php">
 -->
 <script>
 
-
+window.location.replace('http://192.168.1.35/app/login.php');
 </script>
 </body>
 </html>
