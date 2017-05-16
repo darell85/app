@@ -6,13 +6,12 @@
         id        = "com.phonegap.api-request"
         version   = "1.0.0">
 
-    <name>SPM TEST 4</name>
+    <name>SPM TEST 5</name>
 
     <description>
        test Test
     </description>
 
-<allow-navigation href="http://192.168.1.35/app/*" />
     <!-- Define app icon for each platform. -->
     <icon src="spm.png" />
 </widget>
